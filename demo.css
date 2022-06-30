@@ -1,0 +1,5 @@
+.abc{
+    display: grid;
+    grid-template-columns: auto;
+    grid: 9rem;
+}
